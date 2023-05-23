@@ -15,5 +15,5 @@
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
-Sou um Desenvolvedor Web altamente motivado e apaixonado por design de interfaces eficazes e experiências do usuário aprimoradas.
+<h3>Sou um Desenvolvedor Web altamente motivado e apaixonado por design de interfaces eficazes e experiências do usuário aprimoradas.</h3>
 
