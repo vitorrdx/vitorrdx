@@ -1,7 +1,7 @@
 <h1> Olá! Eu sou o Vítor 👋</h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorrdx/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/vitorrdx)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/vitorrdx)
 
 ![Vitor GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorrdx&show_icons=true&theme=radical&count_private=true)
@@ -15,5 +15,5 @@
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
-<h3>Sou um Desenvolvedor Web altamente motivado e apaixonado por design de interfaces eficazes e experiências do usuário aprimoradas.</h3>
+<h3>• • •</h3>
 
